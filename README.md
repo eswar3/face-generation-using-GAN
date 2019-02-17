@@ -19,7 +19,7 @@ In this project, I have built and trained a DCGAN on a dataset of human faces. T
 	```
 3. Read and follow the instructions in the jupyter notebook.
 
-4. This repository does not include the dataset of faces. You can find the instruction in notebook on how to downlaod it.
+4. This repository does not include the dataset. You can find the instruction in notebook on how to downlaod it.
 
 ## Project Information
 
